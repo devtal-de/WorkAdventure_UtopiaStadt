@@ -109,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#startA"
+                 "value":"main.json#startA"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#startB"
+                 "value":"main.json#startB"
                 }],
          "type":"tilelayer",
          "visible":true,
