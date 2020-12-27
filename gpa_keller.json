@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"gpa_keller.json#start_kellerHintereingang"
+                 "value":"Utopiastadt.json#start_kellerHintereingang"
                 }],
          "type":"tilelayer",
          "visible":true,
