@@ -141,6 +141,12 @@
          "id":16,
          "name":"to_kellerausgang",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"gpa_keller.json#start_kellerHintereingang"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
