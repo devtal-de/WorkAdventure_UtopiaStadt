@@ -15,6 +15,12 @@
          "id":17,
          "name":"badge_keller",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"X8wKNTgkM4b1MFijyym0PduYTocfiCDDeEnQovNZGzL5IGq8G3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":59,
